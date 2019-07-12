@@ -5,6 +5,12 @@
     <lastmod>2019-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://jiahong/github.io/images/puppy-dog.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiahong/github.io/images/puppy-dog_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://jiahong/github.io/%E6%9C%AA%E5%91%BD%E5%90%8D-2.html</loc>

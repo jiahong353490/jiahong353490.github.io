@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jiahong/github.io" resolutions="1x,2x" timestamp="1562918968864">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jiahong/github.io" resolutions="1x,2x" timestamp="1562919145372">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="454595703" ref="index"/>
     <file name="___-2.css" crc="297374013" ref="未命名-2"/>
-    <file name="index.css" crc="535418162" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:未命名-2"/>
@@ -12,13 +12,15 @@
     <file name="require.js" crc="4157109226" ref="index:未命名-2"/>
   </folder>
   <folder name="images">
-    <file name="puppy-dog.jpg" crc="251208531" seo="true" ref="未命名-2">
+    <file name="puppy-dog.jpg" crc="251208531" seo="true" ref="index:未命名-2">
+      <caption webpage="index" alt=""/>
       <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="puppy-dog_2x.jpg" crc="27157906" seo="true" ref="未命名-2">
+    <file name="puppy-dog_2x.jpg" crc="27157906" seo="true" ref="index:未命名-2">
+      <caption webpage="index" alt=""/>
       <caption webpage="未命名-2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4029051354" seo="true" mt="1562918863765" redirect="false"/>
+  <file name="index.html" crc="253164098" seo="true" mt="1562919126053" redirect="true"/>
   <file name="未命名-2.html" crc="87591060" seo="true" mt="1562918909124" redirect="true"/>
 </manifest>
