@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiahong353490.goithub.io/index.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <loc>http://www.jiahong353490.com/index.html</loc>
+    <lastmod>2019-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://jiahong353490.goithub.io/images/puppy-dog.jpg</image:loc>
+      <image:loc>http://www.jiahong353490.com/images/logo__%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://jiahong353490.goithub.io/images/puppy-dog_2x.jpg</image:loc>
+      <image:loc>http://www.jiahong353490.com/images/logo__%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
