@@ -1,25 +1,69 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jiahong353490.com" resolutions="1x,2x" timestamp="1563089349786">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jiahong353490.com" resolutions="1x,2x" timestamp="1564148519590">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="182530554" ref="index"/>
+    <file name="index.css" crc="4043270753" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="logo__工作區域 1.png" crc="3933974919" seo="true" ref="index">
+    <file name="00_工作區域 1.jpg" crc="4205979634" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo__工作區域 1_2x.png" crc="3854135766" seo="true" ref="index">
+    <file name="00_工作區域 1_2x.jpg" crc="373782215" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u104-4.png" crc="35257228" ref="index"/>
-    <file name="u104-4_2x.png" crc="4004308610" ref="index"/>
+    <file name="01_工作區域 1_工作區域 1.jpg" crc="387772801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="04_工作區域 1.jpg" crc="65528057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06_工作區域 1.jpg" crc="4223468268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08_工作區域 1.jpg" crc="4038838476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="10_工作區域 1.jpg" crc="413169814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_工作區域 1.jpg" crc="3841336563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_工作區域 1.jpg" crc="4256947870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_工作區域 1.jpg" crc="3923228311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_工作區域 1.jpg" crc="4189778771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15_工作區域 1.jpg" crc="216997476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16_工作區域 1.jpg" crc="4044009976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03_工作區域 1.jpg" crc="3936746303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03_工作區域 1_2x.jpg" crc="3829947501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="139766867" seo="true" mt="1563089191290" redirect="true"/>
+  <file name="index.html" crc="3885026612" seo="true" mt="1564148430721" redirect="true"/>
 </manifest>
