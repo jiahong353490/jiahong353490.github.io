@@ -1,32 +1,17 @@
-<<<<<<< HEAD
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jiahong353490.com" resolutions="1x,2x" timestamp="1567517153261">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jiahong353490.com" resolutions="1x,2x" timestamp="1567517386548">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4229237731" ref="index"/>
-=======
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jiahong353490.com" resolutions="1x,2x" timestamp="1565066301426">
-  <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="463683006" ref="index"/>
->>>>>>> 64848dbf3e7d519a17065ca8d96949143dcd98c1
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4286661555" ref="index"/>
-<<<<<<< HEAD
-=======
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
->>>>>>> 64848dbf3e7d519a17065ca8d96949143dcd98c1
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-<<<<<<< HEAD
     <file name="00_工作區域 1.jpg" crc="3889652821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -125,84 +110,4 @@
     </file>
   </folder>
   <file name="index.html" crc="276359834" seo="true" mt="1567513199887" redirect="true"/>
-=======
-    <file name="00_工作區域 1_工作區域 1.jpg" crc="3831551270" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="00_工作區域 1_工作區域 1_2x.jpg" crc="3931006862" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1.jpg" crc="4222679361" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="2.jpg" crc="168652365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3.jpg" crc="3995039520" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4.jpg" crc="374856437" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="5.jpg" crc="4010477709" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="6.jpg" crc="331140918" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7.jpg" crc="414256295" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="8.jpg" crc="4106154441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="15.jpg" crc="4218814006" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="14.jpg" crc="4253044955" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="9_工作區域 1.jpg" crc="239341695" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="10_工作區域 1.jpg" crc="272133372" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="11_工作區域 1.jpg" crc="4213511055" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="12_工作區域 1.jpg" crc="299342555" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13_工作區域 1.jpg" crc="3949023166" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="11_工作區域 1_工作區域 1.jpg" crc="3970707527" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13_工作區域 1_工作區域 1.jpg" crc="487019688" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="03_工作區域 1.jpg" crc="3936746303" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="03_工作區域 1_2x.jpg" crc="3829947501" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-  </folder>
-  <file name="index.html" crc="4085001179" seo="true" mt="1565066124322" redirect="true"/>
->>>>>>> 64848dbf3e7d519a17065ca8d96949143dcd98c1
 </manifest>
