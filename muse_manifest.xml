@@ -1,97 +1,191 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jiahong353490.com" resolutions="1x,2x" timestamp="1565066301426">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jiahong353490.com" resolutions="1x,2x" timestamp="1567910914664">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="463683006" ref="index"/>
+    <file name="index.css" crc="503120942" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="00_工作區域 1_工作區域 1.jpg" crc="3831551270" seo="true" ref="index">
+    <file name="2_工作區域 1.jpg" crc="455006766" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="00_工作區域 1_工作區域 1_2x.jpg" crc="3931006862" seo="true" ref="index">
+    <file name="2_工作區域 1_2x.jpg" crc="3764573344" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1.jpg" crc="4222679361" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="2.jpg" crc="168652365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="6_工作區域 1.jpg" crc="4148837856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3.jpg" crc="3995039520" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4.jpg" crc="374856437" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="6_工作區域 1_2x.jpg" crc="3897086544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5.jpg" crc="4010477709" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="6.jpg" crc="331140918" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="29_工作區域 1.jpg" crc="265293764" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7.jpg" crc="414256295" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="8.jpg" crc="4106154441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="29_工作區域 1_2x.jpg" crc="268098045" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="15.jpg" crc="4218814006" seo="true" ref="index">
+    <file name="30_工作區域 1.jpg" crc="14931157" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="14.jpg" crc="4253044955" seo="true" ref="index">
+    <file name="30_工作區域 1_2x.jpg" crc="433266667" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="9_工作區域 1.jpg" crc="239341695" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="9_工作區域 1.jpg" crc="241699150" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="10_工作區域 1.jpg" crc="272133372" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="11_工作區域 1.jpg" crc="4213511055" seo="true" ref="index">
+    <file name="9_工作區域 1_2x.jpg" crc="99991814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="12_工作區域 1.jpg" crc="299342555" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13_工作區域 1.jpg" crc="3949023166" seo="true" ref="index">
+    <file name="13_工作區域 1.jpg" crc="96235968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="11_工作區域 1_工作區域 1.jpg" crc="3970707527" seo="true" ref="index">
+    <file name="13_工作區域 1_2x.jpg" crc="333923151" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="13_工作區域 1_工作區域 1.jpg" crc="487019688" seo="true" ref="index">
+    <file name="4_工作區域 1.jpg" crc="4056724970" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03_工作區域 1.jpg" crc="3936746303" seo="true" ref="index">
+    <file name="4_工作區域 1_2x.jpg" crc="3792244414" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03_工作區域 1_2x.jpg" crc="3829947501" seo="true" ref="index">
+    <file name="5_工作區域 1.jpg" crc="3803256834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_工作區域 1_2x.jpg" crc="308663312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8_工作區域 1.jpg" crc="3914545005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8_工作區域 1_2x.jpg" crc="160893377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_工作區域 1.jpg" crc="76424266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_工作區域 1_2x.jpg" crc="3997108787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25_工作區域 1.jpg" crc="3963921539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25_工作區域 1_2x.jpg" crc="497495025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_工作區域 1.jpg" crc="466307185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_工作區域 1_2x.jpg" crc="4122104009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_工作區域 1.jpg" crc="402639490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_工作區域 1_2x.jpg" crc="430145662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27_工作區域 1.jpg" crc="283407776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27_工作區域 1_2x.jpg" crc="3759331414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="26_工作區域 1.jpg" crc="3973226936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="26_工作區域 1_2x.jpg" crc="3981131769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28_工作區域 1.jpg" crc="283122900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28_工作區域 1_2x.jpg" crc="3850480316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22_工作區域 1.jpg" crc="42712219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22_工作區域 1_2x.jpg" crc="4022735313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21_工作區域 1.jpg" crc="283053466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21_工作區域 1_2x.jpg" crc="462923105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="34_工作區域 1.jpg" crc="4094736017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="34_工作區域 1_2x.jpg" crc="22055001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="36_工作區域 1.jpg" crc="4143529091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="36_工作區域 1_2x.jpg" crc="296748420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31_工作區域 1.jpg" crc="464946702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31_工作區域 1_2x.jpg" crc="3971858787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32_工作區域 1.jpg" crc="3945145246" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32_工作區域 1_2x.jpg" crc="4047592822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33_工作區域 1.jpg" crc="4060908509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33_工作區域 1_2x.jpg" crc="414366566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="35_工作區域 1.jpg" crc="317090869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="35_工作區域 1_2x.jpg" crc="187059952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_工作區域 1.jpg" crc="327872873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_工作區域 1_2x.jpg" crc="394834368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="00.png" crc="3948106258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="00_2x.png" crc="4223976873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_工作區域 1.jpg" crc="3866423320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_工作區域 1_2x.jpg" crc="4203472722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_工作區域 1.jpg" crc="3977758452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_工作區域 1_2x.jpg" crc="4062444256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="37_工作區域 1.jpg" crc="3798400993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="37_工作區域 1_2x.jpg" crc="4240375275" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4085001179" seo="true" mt="1565066124322" redirect="true"/>
+  <file name="index.html" crc="9803038" seo="true" mt="1567910904650" redirect="true"/>
 </manifest>
